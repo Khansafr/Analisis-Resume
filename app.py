@@ -83,10 +83,10 @@ TEXT = {
         """,
 
         "input_jd": "1. Masukkan Job Description",
-        "upload_resume": "2. Upload Resume Kandidat",
+        "upload_resume": "2. Masukkan Resume Kandidat",
         "jd_label": "Tempel job description di sini",
         "jd_placeholder": "Contoh: Kami mencari Data Analyst yang menguasai Python, SQL, machine learning, pandas, dan data visualization...",
-        "upload_label": "Upload satu atau lebih resume PDF",
+        "upload_label": "Masukkan satu atau lebih resume PDF",
         "pdf_note": "Pastikan resume berbentuk PDF teks. PDF hasil scan gambar mungkin tidak terbaca tanpa OCR.",
         "start": "🚀 Mulai Screening",
 
